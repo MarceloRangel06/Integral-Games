@@ -1,0 +1,148 @@
+header{
+   width: 100vw;
+    margin: 0;
+    height: 11vw;
+    background-color: #000000;
+    display: inline-flex;
+}   
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+#itgames
+{
+    width: 10vw;
+    height: 10vw;
+    float: left;
+    display: inline-flex;
+    margin-top: 0.9vw;
+    margin-left: 1vw;
+    margin-right: 1vw;
+
+}
+.home > a {
+    color: white;
+    font-family: "Helvetica", Times, serif;
+    font-size: 2.3vw;
+    text-decoration: none;
+    margin-top: 0.9vw;
+    width: 100vw;
+    margin-right: auto;
+}
+.home > a:hover{
+    color: rgb(255,229,0)
+}
+
+
+li{
+    list-style: none;
+}
+nav{
+    width: 100vw;
+    display: inline-flex;
+    justify-content: space-around;
+    margin-top:4.5vw;
+}
+p{
+    padding-left: 5vw;
+    padding-right: 5vw;
+    font-size: 1.2vw;
+    text-align: justify;
+}
+.Destaques{ 
+    margin-right: 50%;
+}
+.destaque {
+    width: 98.63vw;
+    height: auto;
+    overflow: hidden;
+    margin-top: 0.vw;
+  }
+  .hdestaque {
+    font-family: Helvetica, sans-serif, arial;
+    color: rgb(0, 0, 0);
+    font-size: 2.08vw;
+    margin-left: 3.5vw;
+    float: left;
+    padding-left: 3.5vw;
+    padding-right: 3.5vw;
+    line-height: 4vw;
+    position: relative;
+    margin-right: 70vw;
+  }
+  .hdestaque:hover {
+    opacity: 0.8;
+    transition: 200ms linear;
+  }
+.mortal{
+    width: auto;
+    height: 28vw;
+    margin-left: 10vw
+
+  }
+  .destaque > img:hover {
+    opacity: 0.9;
+    transform: scale(0.99);
+    transition: 200ms linear;
+    cursor: pointer;
+  }
+  .linhas{
+
+    width: 100vw;
+    display: inline-flex;
+    justify-content: space-around;
+  }
+  .mdestaque
+  {
+    margin-left: 5vw;
+    font-size: large;
+    font-family: Helvetica, sans-serif, arial;
+  }
+  .nsobre{
+    margin-left: 5vw;
+    font-family: Helvetica, sans-serif, arial;
+    font-size: xx-large;
+  }
+  .pa{
+    font-family: Helvetica, sans-serif, arial;
+  }
+.punk1{
+    margin-left: 1vw;  
+    font-family: Arial, Helvetica, sans-serif; 
+}
+.pa1{
+display: flex;
+width: 100vw;
+margin-top: 10;
+margin-bottom: 1.3vw;
+margin-left: 0vw;
+}
+.pa2{
+  display: flex;
+  width: 100vw;
+  margin-top: 10;
+  margin-bottom: 1.3vw;
+  margin-left: 0vw;
+  }
+h2{
+    font-size: xx-large; 
+    font-family: Helvetica, sans-serif, arial;
+    margin-left: 1vw;
+}
+a > .pa1 > img{
+    width: 15vw;
+    height: 15vw;
+}
+.pa2 > img{
+    width: 20vw;
+    height: 20vw;
+}
+.pa3 > img{
+  width: 90vw;
+  height: 40vw;
+  margin-left:4vw;
+}
+p{
+  font-family: Helvetica, sans-serif, arial;;
+}
